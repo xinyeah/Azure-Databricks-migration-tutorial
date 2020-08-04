@@ -1,6 +1,7 @@
-# azure-databricks-migration-tutorial
+# Azure Databricks migration tutorial
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 A Python scripts repo for migrating Azure Databricks.
 
 ## Table of Contents
@@ -30,4 +31,4 @@ Small note: If editing the README, please conform to the [standard-readme](https
 
 ## License
 
-Apache-2.0 © 2020 Xinye
+[Apache-2.0](https://github.com/xinyeah/Azure-Databricks-migration-tutorial/blob/master/LICENSE) © 2020 Xinye
